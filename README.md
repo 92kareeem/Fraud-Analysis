@@ -1,7 +1,7 @@
 # Fraud Detection Using Machine Learning
 
 ## Overview
-Fraud is one of the most critical challenges in the *****financial sector*****, leading to substantial revenue losses. Studies estimate that organizations lose around 5% of their annual revenue to fraudulent activities, translating to trillions of dollars in global losses. Machine learning provides an efficient approach to detecting fraud by analyzing large transactional datasets, identifying unusual patterns, and providing alerts for potential fraudulent transactions. 
+Fraud is one of the most critical challenges in the **financial sector**, leading to substantial revenue losses. Studies estimate that organizations lose around 5% of their annual revenue to fraudulent activities, translating to trillions of dollars in global losses. Machine learning provides an efficient approach to detecting fraud by analyzing large transactional datasets, identifying unusual patterns, and providing alerts for potential fraudulent transactions. 
 
 This project leverages various machine learning algorithms, including deep learning models, to build a robust fraud detection system. It incorporates data preprocessing, model training, evaluation, and saving functionalities to enhance financial security.
 
