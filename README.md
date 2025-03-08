@@ -23,13 +23,7 @@ This project leverages various machine learning algorithms, including deep learn
   - Confusion Matrix
   - Classification Report
 - Model Saving and Loading using `pickle`
-
-## Requirements
-To run this project, install the following dependencies:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn keras tensorflow
-```
-
+- 
 ## Usage
 1. Load the dataset and preprocess it using standard scaling techniques.
 2. Perform exploratory data analysis (EDA) to understand patterns in the data.
